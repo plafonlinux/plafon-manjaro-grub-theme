@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Поддерживается%3F-Yes-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Поддерживается%3F-Да-green?style=flat-square">
   <img src="https://img.shields.io/github/license/plafonlinux/plafon-manjaro-grub-theme?style=flat-square">
   <img src="https://img.shields.io/github/stars/plafonlinux/plafon-manjaro-grub-theme?style=flat-square">
   <img src="https://img.shields.io/github/forks/plafonlinux/plafon-manjaro-grub-theme?color=teal&style=flat-square">
