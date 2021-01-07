@@ -16,9 +16,8 @@
 
 ![gif](https://github.com/plafonlinux/plafon-manjaro-grub-theme/blob/main/preview.gif) <br />
 
-![GitHub Logo](preview.gif)
+## Instalation Guide
 
- 
 01. git clone https://github.com/plafonlinux/plafon-grub-theme.git
 02. Add folder plafon on GRUB Theme`s folder
 
