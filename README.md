@@ -12,9 +12,10 @@
   <img src="https://img.shields.io/github/stars/plafonlinux/plafon-manjaro-grub-theme?style=flat-square">
   <img src="https://img.shields.io/github/forks/plafonlinux/plafon-manjaro-grub-theme?color=teal&style=flat-square">
   <img src="https://img.shields.io/github/issues/plafonlinux/plafon-manjaro-grub-theme?color=violet&style=flat-square">
-</p>
+
 
 ![gif](https://github.com/plafonlinux/plafon-manjaro-grub-theme/blob/main/preview.gif) <br />
+</p>
 
 ## Instalation Guide
 
