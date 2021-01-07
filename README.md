@@ -14,11 +14,7 @@
   <img src="https://img.shields.io/github/issues/plafonlinux/plafon-manjaro-grub-theme?color=violet&style=flat-square">
 </p>
 
-<p align="center">
-  
-![gif](https://github.com/plafonlinux/plafon-manjaro-grub-theme/blob/main/preview.gif) <br />
-
-</p>
+<p align="center">![gif](https://github.com/plafonlinux/plafon-manjaro-grub-theme/blob/main/preview.gif) </p>
 
 ## Instalation Guide
 
