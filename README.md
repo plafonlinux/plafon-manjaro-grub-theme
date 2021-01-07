@@ -6,9 +6,8 @@
 <a href=""><img width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/4.png" alt="Support me on Patreon"></a>
 </p>
 
-<p align="center">
 ![GitHub Logo](preview.gif)
- </p>
+
  
 01. git clone https://github.com/plafonlinux/plafon-grub-theme.git
 02. Add folder plafon on GRUB Theme`s folder
