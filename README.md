@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://www.donationalerts.com/r/donplafon"><img width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/1.png" alt="Buy Me A Coffee - Купить мне кофе"></a>
-<a href="https://www.paypal.com/paypalme/godofgnome"><img width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/3.png" alt="Support me on Paypal"></a>
+<a href="https://paypal.me/godofgnome?locale.x=ru_RU"><img width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/3.png" alt="Support me on Paypal"></a>
 <a href=""><img width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/4.png" alt="Support me on Patreon"></a>
 </p>
 
