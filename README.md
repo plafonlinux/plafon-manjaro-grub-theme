@@ -18,6 +18,6 @@
 
 ## Instalation Guide
 
-01. git clone https://github.com/BigmenPixel0/plafon-manjaro-grub-theme.git
+01. git clone https://github.com/plafonlinux/plafon-manjaro-grub-theme.git
 02. cd ./plafon-manjaro-grub-theme
 03. ./install.sh
