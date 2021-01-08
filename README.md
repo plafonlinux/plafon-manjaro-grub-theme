@@ -16,7 +16,7 @@
 
 ![gif](https://github.com/plafonlinux/plafon-manjaro-grub-theme/blob/main/preview.gif)
 
-## Installtion Guide
+## Instalation Guide
 
 01. git clone https://github.com/BigmenPixel0/plafon-manjaro-grub-theme.git
 02. cd ./plafon-manjaro-grub-theme
